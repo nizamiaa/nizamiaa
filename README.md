@@ -23,7 +23,7 @@
 
 ## 🌐 My Project
 
-- 🔗 **oyunchu.az**
+- 🚀 **[oyunchu.az](https://oyunchu.az)** – Gaming e-commerce platform built with React & Node.js
 
 ---
 
