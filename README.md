@@ -1,4 +1,4 @@
-# Hi, I'm Nizami 👋
+# Hi, I'm Nizami Allahverdiyev
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Node.js+Developer;Welcome+to+my+GitHub&center=true&width=500&height=50)
 
@@ -36,12 +36,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizamiaa&layout=compact&theme=tokyonight)
 
 ---
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nizamiaa&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 
 ⭐ From [nizamiaa](https://github.com/nizamiaa)
