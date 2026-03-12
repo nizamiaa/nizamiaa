@@ -7,9 +7,9 @@
 ## 🚀 About Me
 
 - 💻 Frontend Developer
-- 🌐 Working on **oyunchu.az**
+- 🌐 Currently works in **OYUNCHU**
 - ⚡ Building projects with React & Node.js
-- 📍 Azerbaijan
+- 📍 Baku, Azerbaijan
 
 ---
 
