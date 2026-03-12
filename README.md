@@ -49,4 +49,8 @@
 
 ---
 
+![Snake animation](https://github.com/nizamiaa/nizamiaa/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ⭐ From [nizamiaa](https://github.com/nizamiaa)
