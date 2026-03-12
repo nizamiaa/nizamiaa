@@ -43,14 +43,5 @@
 
 ---
 
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=nizamiaa&color=blue)
-
----
-
-![Snake animation](https://github.com/nizamiaa/nizamiaa/blob/output/github-contribution-grid-snake.svg?raw=true)
-
----
 
 ⭐ From [nizamiaa](https://github.com/nizamiaa)
