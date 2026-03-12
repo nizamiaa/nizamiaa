@@ -29,11 +29,27 @@
 
 ## 📊 GitHub Stats
 
+<table>
+<tr>
+<td>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nizamiaa&show_icons=true&theme=tokyonight)
+
+</td>
+<td>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nizamiaa&theme=tokyonight)
 
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizamiaa&layout=compact&theme=tokyonight)
+
+</td>
+</tr>
+</table>
 
 ---
 
