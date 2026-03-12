@@ -1,6 +1,6 @@
 # Hi, I'm Nizami Allahverdiyev
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Node.js+Developer;Welcome+to+my+GitHub&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Node.js+Developer;Welcome+to+my+GitHub&width=500&height=50)
 
 ---
 
