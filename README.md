@@ -1,16 +1,19 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Node.js+Developer)
+
 # Hi, I'm Nizami 👋
 
 Frontend Developer
 
-🚀 Tech Stack
-- React
-- Node.js
-- JavaScript
-- SQL
+## 🚀 Tech Stack
 
-🌐 Project
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mysql" />
+</p>
+
+## 🌐 Project
 - oyunchu.az
+
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nizamiaa&show_icons=true&theme=tokyonight)
 
@@ -18,4 +21,6 @@ Frontend Developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizamiaa&layout=compact&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nizamiaa)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nizamiaa&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
