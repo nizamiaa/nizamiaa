@@ -1,17 +1,31 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Node.js+Developer)
-
 # Hi, I'm Nizami 👋
 
-Frontend Developer
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Node.js+Developer;Welcome+to+my+GitHub&center=true&width=500&height=50)
+
+---
+
+## 🚀 About Me
+
+- 💻 Frontend Developer
+- 🌐 Working on **oyunchu.az**
+- ⚡ Building projects with React & Node.js
+- 📍 Azerbaijan
+
+---
 
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,html,css,mysql,git,vscode" />
 </p>
 
-## 🌐 Project
-- oyunchu.az
+---
+
+## 🌐 My Project
+
+- 🔗 **oyunchu.az**
+
+---
 
 ## 📊 GitHub Stats
 
@@ -21,6 +35,18 @@ Frontend Developer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizamiaa&layout=compact&theme=tokyonight)
 
+---
+
 ## 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nizamiaa&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=nizamiaa&color=blue)
+
+---
+
+⭐ From [nizamiaa](https://github.com/nizamiaa)
